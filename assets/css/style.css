@@ -1,0 +1,167 @@
+body{
+    background:#f5f7fa;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:#f5f7fa;
+}
+
+.table-box{
+    background:white;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,0.1);
+}
+
+.form-box{
+    background:white;
+    padding:40px;
+    border-radius:20px;
+    box-shadow: 0 10px 40px rgba(15, 43, 221, 0.2);
+    margin-top: 30px;
+}
+
+.form-box h2{
+    color: #333;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    text-decoration-color: #667eea;
+    text-underline-offset: 8px;
+}
+
+.form-control, .form-select{
+    border: 2px solid #000000;
+    border-radius: 10px;
+    padding: 12px 15px;
+    font-size: 15px;
+    transition: all 0.3s ease;
+}
+
+.form-control:focus, .form-select:focus{
+    border-color: #667eea;
+    box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.25);
+}
+
+label{
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.btn-success{
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    padding: 12px;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.btn-success:hover{
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+}
+
+.error{
+    color: #dc3545;
+    font-size: 13px;
+    margin-top: 5px;
+    font-weight: 500;
+}
+
+.alert-success{
+    border-radius: 10px;
+    border: none;
+    background-color: #d4edda;
+    color: #155724;
+    font-weight: 600;
+}
+
+
+.navbar{
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.navbar-brand{
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.hero{
+    background:linear-gradient(135deg,#0d6efd,#6610f2);
+    color:white;
+    padding:120px 0;
+}
+
+.card{
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+}
+
+.form-box{
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,0.1);
+}
+
+.error{
+    color:red;
+    font-size:14px;
+}
+
+footer{
+    margin-top:50px;
+}
+body{
+    font-family: Arial, sans-serif;
+}
+
+.hero{
+    background: linear-gradient(135deg,#0d6efd,#6610f2);
+    color:white;
+    padding:120px 0;
+}
+
+.hero h1{
+    font-size:60px;
+    font-weight:bold;
+}
+
+.card{
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+}
+
+footer{
+    margin-top:50px;
+}
+body{
+    background:rgb(108, 220, 228);
+}
+body{
+    background:#97edea;
+}
+
+.course-card{
+    transition:0.3s;
+}
+
+.course-card:hover{
+    transform:translateY(-8px);
+}
+
+.card img{
+    height:200px;
+    object-fit:cover;
+}
